@@ -4,7 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-<p style="font-size: 0.85em;">
+
 ## Courses Taught (Instructor of Record, UCSB) 
 
 - **PSTAT 10: Data Science Principles** (Undergraduate, Summer 2023) 
@@ -40,5 +40,3 @@ author_profile: true
 
 - **PHYSICS 135A,B,C: General Physics** (Northwestern University Academic Support and Learning Peer Tutor, 2018-2020)
     Mechanics, electricity and magnetism, and waves 
-
-</p>
