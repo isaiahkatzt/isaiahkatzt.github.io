@@ -21,6 +21,8 @@ author_profile: true
     Box-Jenkins method, spectral methods, long-memory processes</li>
     <li><strong>PSTAT 160B: Stochastic Processes</strong> (Undergraduate, Summer 2022) 
     Continuous time Markov chains, elementary stochastic calculus</li>
+    <li><strong>PSTAT 131/231: Machine Learning</strong> (Cross-listed Undergraduate / Graduate, Fall 2025) 
+    Statistical learning theory and application</li>
     <li><strong>PSTAT 120A,B,C: Mathematical Statistics</strong> (Undergraduate, Spring 2022, Fall 2022, Winter 2023, Summer 2024, Summer 2025) 
     Foundations of probability, mathematical statistics, and applied statistical methods</li>
     <li><strong>PSTAT 10: Data Science Principles</strong> (Undergraduate, Summer 2022) 
